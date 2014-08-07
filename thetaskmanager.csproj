@@ -68,6 +68,7 @@
     <Content Include="dbSetup\Clean DB.sql" />
     <Content Include="dbSetup\Deploy DB.sql" />
     <Content Include="Default.aspx" />
+    <Content Include="Images\background.png" />
     <Content Include="styles\default_base.css" />
     <Content Include="Web.config" />
   </ItemGroup>
